@@ -27,7 +27,7 @@ func main() {
 	fmt.Scanln(&t.JenisBus)
 	fmt.Print("Jumlah Tiket : ")
 	fmt.Scanln(&t.JumlahTiket)
-
+	fmt.Println("=================================================")
 	if t.Jurusan == 1 {
 		if t.JenisBus == 1 {
 			if t.JumlahTiket > 3 {
