@@ -1,0 +1,6 @@
+Buatkan sebuah program
+pencarian untuk mencari
+bilangan genap dan ganjil
+dari rentang nilai awal dan
+akhir yang ditentukan oleh
+user.
